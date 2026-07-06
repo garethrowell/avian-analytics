@@ -3,7 +3,7 @@
 landbird data into data warehouse for simple population and community analytics using PostgreSQL plpgsql
 and data visualizations in R
 
-# dataet
+# dataset
 
 the NSF NEON landbird dataset 
 
