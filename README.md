@@ -7,6 +7,7 @@ and data visualizations in R
 
 the NSF NEON landbird dataset 
 
+NEON (National Ecological Observatory Network). Breeding landbird point counts (DP1.10003.001), RELEASE-2026. https://doi.org/10.48443/v6hs-mx57. Dataset accessed from https://data.neonscience.org/data-products/DP1.10003.001/RELEASE-2026 on July 6, 2026.
 # purpose
 
 initial project to focus on creating pl/pgsql scripts to convert NEON landbird datasets into data warehouse to create
