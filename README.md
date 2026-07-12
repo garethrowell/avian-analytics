@@ -20,3 +20,5 @@ species by year - secondary data product is 3D array of total count referenced s
 
 quick front end with R shiny to generate frequency plot showing total counts vs year for each species x park
 
+Downloaded all years for Konza. Folder organization is by NEON station by year. Each folder contains 
+files containing categories, validation processes, bird point counts, site information, eml metadata, 
